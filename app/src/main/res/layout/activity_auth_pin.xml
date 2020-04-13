@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="80dp"
+    android:orientation="vertical"
+    tools:context=".AuthPin">
+
+    <EditText
+        android:id="@+id/AuthAPinText_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ems="10"
+        android:layout_marginTop="80dp"
+        android:text="@string/authPinText_1"
+        android:textAlignment="center"
+        android:inputType="number" />
+
+    <Button
+        android:id="@+id/AuthPinBtn_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/authPinBtn_1"
+        android:layout_margin="40dp"
+        android:textAlignment="center"/>
+
+</LinearLayout>

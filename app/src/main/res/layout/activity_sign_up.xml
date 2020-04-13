@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:layout_marginTop="180dp"
+    android:layout_marginBottom="180dp"
+    android:layout_marginLeft="80dp"
+    android:layout_marginRight="80dp"
+    tools:context=".SignUp">
+
+    <EditText
+        android:id="@+id/SignUpText_1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/signInText_1"
+        android:background="@drawable/button_bg_oval"
+        android:textAlignment="center"
+        android:layout_marginBottom="40dp"/>
+
+    <EditText
+        android:id="@+id/SignUpText_2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/signInText_2"
+        android:background="@drawable/button_bg_oval"
+        android:textAlignment="center"
+        android:layout_marginBottom="40dp"/>
+
+    <Button
+        android:id="@+id/SignUpBtn_2"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@color/colorBlue"
+        android:text="@string/SignInBtn_2"
+        android:textColor="#ffffff"
+        android:textAlignment="center"/>
+
+</LinearLayout>

@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">NevtikOrangTua</string>
+    <string name="logonevtik">LogoNevtik</string>
+    <string name="loginAsText_1">Siapa yang menggunakan ponsel ini ?</string>
+    <string name="loginAsBtn_1">Masuk Sebagai Orangtua</string>
+    <string name="loginAsBtn_2">Masuk Sebagai Anak</string>
+    <string name="loginAsText_2">Sudah punya akun ?</string>
+    <string name="loginAsText_3">Masuk</string>
+    <string name="signInText_1">Username</string>
+    <string name="signInText_2">Password</string>
+    <string name="signInBtn_1">Masuk</string>
+    <string name="SignInBtn_2">Buat</string>
+    <string name="authPinText_1">Masukan PIN Otentikasi Anda</string>
+    <string name="authPinBtn_1">ENTER</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+</resources>
